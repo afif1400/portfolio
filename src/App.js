@@ -66,7 +66,7 @@ function Solutions() {
 function Contact() {
   return (
     <div>
-      <form name='contact' method='POST' data-netlify='true' netlify>
+      <form name='contact' action='POST' data-netlify='true' netlify>
         <p>
           <label>
             Your Name: <input type='text' name='name' />
