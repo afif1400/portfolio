@@ -111,7 +111,7 @@ const Hamburger = ({ state }) => {
                   </li>
                 </ul>
               </nav>
-              <div ref={(el) => (info = el)} className='info'>
+              {/* <div ref={(el) => (info = el)} className='info'>
                 <h3>Our Promise</h3>
                 <p>
                   The passage experienced a surge in popularity during the 1960s
@@ -119,9 +119,11 @@ const Hamburger = ({ state }) => {
                   during the 90s as desktop publishers bundled the text with
                   their software.
                 </p>
-              </div>
+              </div> */}
               <div className='locations'>
                 Certificates:
+                <br />
+                Cources and Internships
                 {/* Returning the list of cities */}
                 {cities.map((el) => (
                   <span
