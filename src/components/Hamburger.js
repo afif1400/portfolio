@@ -15,8 +15,6 @@ import {
 
 import austin from '../images/austin.webp';
 import newyork from '../images/newyork.webp';
-import sanfrancisco from '../images/sanfrancisco.webp';
-import beijing from '../images/beijing.webp';
 import microCert from '../images/microCert.jpg';
 import interncert1 from '../images/spanishbolo-certificate.jpg';
 
