@@ -18,13 +18,14 @@ import newyork from '../images/newyork.webp';
 import sanfrancisco from '../images/sanfrancisco.webp';
 import beijing from '../images/beijing.webp';
 import microCert from '../images/microCert.jpg';
+import interncert1 from '../images/spanishbolo-certificate.jpg';
 
 const cities = [
   { name: 'microservices', image: microCert },
   { name: 'Docker & Kubernetes', image: austin },
   { name: 'Postgres', image: newyork },
-  { name: 'Ionic & Angular', image: sanfrancisco },
-  { name: 'Beijing', image: beijing },
+  // { name: 'Ionic & Angular', image: sanfrancisco },
+  { name: 'Internship Certificate', image: interncert1 },
 ];
 
 const Hamburger = ({ state }) => {
