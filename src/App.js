@@ -105,7 +105,7 @@ function Home() {
     <div className='container'>
       <div className='wrapper'>
         <h5>
-          I'm <b>AFIF</b>, a fullstact web developer, trying to learn new thing
+          I'm <b>AFIF</b>, a fullstack web developer, trying to learn new thing
           each day and reaching new heights.
         </h5>
         <div
